@@ -13,9 +13,11 @@ const Projects = () => {
         "A basic web-based calculator that performs simple arithmetic operations like addition, subtraction, multiplication, and division with a clean and user-friendly interface.",
       image: Calculator,
       technologies: ["HTML", "CSS", "Java Script", "Vite React"],
-      liveUrl: "https://calculator-in-vite-and-react.vercel.app/",
+      // liveUrl: "https://calculator-in-vite-and-react.vercel.app/",
+      liveUrl:"https://calculator-frontend-3jc7.vercel.app/",
       githubUrl:
-        "https://github.com/barwin1510/Calculator-in-Vite-and-React/tree/main",
+        // "https://github.com/barwin1510/Calculator-in-Vite-and-React/tree/main",
+        "https://github.com/RajaNarayanan2002/calculator-frontend/tree/master"
     },
     {
       id: 2,
@@ -24,9 +26,9 @@ const Projects = () => {
         "A simple and interactive web-based Todo List application that allows users to add, edit, delete, and mark tasks as completed to help manage daily activities efficiently.",
       image: TodoList,
       technologies: ["HTML", "CSS", "Java Script", "Vite React"],
-      liveUrl: "https://todo-list-in-vite-and-react.vercel.app/",
+      liveUrl: "https://todo-list-liart-chi-44.vercel.app/",
       githubUrl:
-        "https://github.com/barwin1510/Todo_List_in_Vite_and_React/tree/main",
+        "https://github.com/RajaNarayanan2002/Todo-list/tree/master",
     },
     {
       id: 3,
@@ -36,8 +38,8 @@ const Projects = () => {
       image: AgeCalculator,
       technologies: ["HTML", "CSS", "Java Script", "Vite React"],
       liveUrl:
-        "https://age-calculator-git-main-barwin1510s-projects.vercel.app/",
-      githubUrl: "https://github.com/barwin1510/Age_Calculator/tree/main",
+        "https://age-calculator-xi-six.vercel.app/",
+      githubUrl: "https://github.com/RajaNarayanan2002/Age-calculator/tree/master",
     },
     {
       id: 4,
@@ -46,7 +48,7 @@ const Projects = () => {
         "A backend application built with Java and Spring Boot to manage employee data, roles, departments, and leaves. It supports CRUD operations, secure login (JWT), and RESTful APIs, integrated with a relational database using JPA/Hibernate.",
       image: EmployeeManagementSystem,
       technologies: ["Java", "Spring Boot", "MySQL"],
-      githubUrl: "https://github.com/barwin1510/Employee_Management_System",
+      githubUrl: "https://github.com/RajaNarayanan2002/Employee-management/tree/master",
     },
     {
       id: 5,
@@ -55,7 +57,7 @@ const Projects = () => {
         "A backend application built with Java and Spring Boot to manage employee data, roles, departments, and leaves. It supports CRUD operations, secure login (JWT), and RESTful APIs, integrated with a relational database using JPA/Hibernate.",
       image: OnlineBillingSystem,
       technologies: ["Java", "Spring Boot", "MySQL"],
-      githubUrl: "https://github.com/barwin1510/Online_Billing_System",
+      githubUrl: "https://github.com/RajaNarayanan2002/Online-billing/tree/master",
     },
   ];
 
