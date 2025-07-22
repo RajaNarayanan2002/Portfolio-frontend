@@ -1,8 +1,6 @@
 const About = () => {
   const stats = [
-    { number: 'BCA', label: '2019-2022' },
-    { number: 'MCA', label: '2022-2024' },
-    { number: 'Java Internship', label: '23/12/2024 - 17/01/2025' },
+    { number: 'B.Tech', label: '2019-2023' },
     { number: 'Software Developer', label: '2025 - Present' }
   ];
 
@@ -19,25 +17,23 @@ const About = () => {
         <div className="about-content">
           <div className="about-text">
             <div className="about-description">
-              <p>
+              {/* <p>
                 I'm a passionate Software Developer and a recent graduate with a
                 BCA and MCA. While I’m a fresher, I’ve gained over four months
                 of hands-on experience working with React, Java Spring Boot, and
                 MySQL, and completed a 1-month Java Backend internship
                 at Features Software in Marthandam, Now, I am currently working in Althi Solution IT  Company.
-              </p>
-              <p>
-                I love solving problems through code and constantly strive to
-                improve my skills. Outside of programming, I’m a chess addict,
-                Rubik’s Cube solver, Photoshop designer, and video editor —
-                always exploring new ways to think creatively and logically.
-              </p>
-              <p>
-                I'm eager to contribute to impactful projects and grow in a
-                challenging, collaborative environment. Let’s connect if you're
-                looking for someone who's committed, curious, and ready to
-                build.
-              </p>
+              </p> */}
+            <p>
+  I love solving problems through code and constantly strive to improve my skills.
+  With two years of experience as a Java Full Stack Developer, I’ve worked on end-to-end solutions using technologies like Spring Boot, React.js, and MySQL.
+  Outside of programming, I’m a chess enthusiast, Rubik’s Cube solver, Photoshop designer, and video editor — always exploring new ways to think creatively and logically.
+</p>
+<p>
+  I'm eager to contribute to impactful projects and grow in a challenging, collaborative environment.
+  Let’s connect if you're looking for someone who's experienced, curious, and ready to build scalable, efficient applications.
+</p>
+
             </div>
             
             <div className="about-highlights">

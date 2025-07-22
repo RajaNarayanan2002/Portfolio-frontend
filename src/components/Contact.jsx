@@ -55,14 +55,14 @@ const Contact = () => {
     {
       icon: emailIcon,
       title: "Email",
-      value: "barwin15102001@gmail.com",
-      link: "mailto:barwin15102001@gmail.com",
+      value: "prajanarayanan2002@gmail.com",
+      link: "mailto:prajanarayanan2002@gmail.com",
     },
     {
       icon: phoneIcon,
       title: "Phone",
-      value: "+91 6379278539",
-      link: "tel:+916379278539",
+      value: "+91 8056718958",
+      link: "tel:+918056718958",
     },
     {
       icon: locationIcon,
@@ -73,27 +73,27 @@ const Contact = () => {
     {
       icon: linkedinIcon,
       title: "LinkedIn",
-      value: "barwin raj",
-      link: "https://www.linkedin.com/in/barwin-raj-375604324/",
+      value: "RajaNarayanan",
+      link: "https://www.linkedin.com/in/rajanarayanan-javadeveloper/?trk=contact-info",
     },
     {
       icon: instagramIcon,
       title: "Instagram",
-      value: "barwin_2001",
-      link: "https://www.instagram.com/barwin_2001/",
+      value: "radan_._mr",
+      link: "https://www.instagram.com/radan_._mr/",
     },
-    {
-      icon: facebookIcon,
-      title: "Facebook",
-      value: "Barwin Raj",
-      link: "https://www.facebook.com/barwin.raj.2025",
-    },
-    {
-      icon: chessIcon,
-      title: "Chess",
-      value: "Barwin_2001",
-      link: "https://www.chess.com/member/barwin_2001",
-    },
+    // {
+    //   icon: facebookIcon,
+    //   title: "Facebook",
+    //   value: "Barwin Raj",
+    //   link: "https://www.facebook.com/barwin.raj.2025",
+    // },
+    // {
+    //   icon: chessIcon,
+    //   title: "Chess",
+    //   value: "Barwin_2001",
+    //   link: "https://www.chess.com/member/barwin_2001",
+    // },
   ];
 
   return (

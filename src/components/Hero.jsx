@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import RajaNarayananProfilePic from "../assets/images/RajaNarayanan-profile.jpeg";
-import BarwinResume from "../assets/pdf/Barwin-Resume.pdf";
+import BarwinResume from "../assets/pdf/RajaNarayanan-Resume.pdf";
 
 const Hero = () => {
   const [isVisible, setIsVisible] = useState(false);
