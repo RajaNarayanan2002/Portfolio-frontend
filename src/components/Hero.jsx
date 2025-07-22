@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import BarwinProfilePic from "../assets/images/Barwin-Profile.jpg";
+import RajaNarayananProfilePic from "../assets/images/RajaNarayanan-profile.jpeg";
 import BarwinResume from "../assets/pdf/Barwin-Resume.pdf";
 
 const Hero = () => {
@@ -28,7 +28,7 @@ const Hero = () => {
           <div className="hero-text">
             <h1 className="hero-title">
               <span className="title-line">Hello, I'm</span>
-              <span className="title-name">Barwin Raj</span>
+              <span className="title-name">RajaNarayanan</span>
               <span className="title-role">Java Full Stack Developer</span>
             </h1>
 
@@ -51,7 +51,7 @@ const Hero = () => {
           <div className="hero-image">
             <div className="image-container">
               <img
-                src={BarwinProfilePic}
+                src={RajaNarayananProfilePic}
                 alt="Developer"
                 className="profile-image"
               />
